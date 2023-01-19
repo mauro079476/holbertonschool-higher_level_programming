@@ -1,2 +1,2 @@
 #!/bin/bash
-for x in "PYCODE", print(x)
+python3 "$PYCODE"
