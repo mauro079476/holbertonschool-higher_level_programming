@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-"""python interpreter"""
+"""Creating an empty class that defines a square"""
 
 
-    class Square:
-        """empty class"""
-        def __init__(self, size)
-        self.__size = size
-
+class Square:
+        """this is the empty class"""
+            def __init__(self, size=0):
+                """adding a private attribute """
+                self.__size = size
