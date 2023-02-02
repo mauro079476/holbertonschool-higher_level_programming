@@ -1,11 +1,9 @@
 #!/usr/bin/python3
-"""
-class that defines
-a square"""
+"""python interpreter"""
 
 
-class Square(self,size)
-    """square 
-    class
-    """
-   self. __size = size
+    class Square:
+        """empty class"""
+        def __init__(self, size)
+        self.__size = size
+
