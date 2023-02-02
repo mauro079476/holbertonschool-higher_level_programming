@@ -1,5 +1,6 @@
-#!/usr/bin/python3
-""
-    python interpreter
-    ""
+#!/usr/bin/python
+"" creating an empty class""
+
 class Square
+    "" this is an empty class""
+    pass
